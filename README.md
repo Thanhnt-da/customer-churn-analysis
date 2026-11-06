@@ -5,7 +5,7 @@ promotions. This repository contains the two mini projects built on the same cus
 
 | Project | Scope | Notebook | Colab |
 |---|---|---|---|
-| **Mini Project 1 – EDA** | Data understanding, cleaning, descriptive statistics, relationship analysis, business recommendations | [`mini_project_1_eda.ipynb`](mini_project_1_eda.ipynb) | [Open in Colab](COLAB_LINK_PROJECT_1) |
+| **Mini Project 1 – EDA** | Data understanding, cleaning, descriptive statistics, relationship analysis, business recommendations | [`mini_project_1_eda.ipynb`](mini_project_1_eda.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Thanhnt-da/customer-churn-analysis/blob/main/mini_project_1_eda.ipynb) |
 | **Mini Project 2 – Churn Model** | Supervised learning model to predict churn | *coming soon* | *coming soon* |
 
 ---
