@@ -1,0 +1,8 @@
+mini project 1 _ EDA.docx
+
+# personal study copy with the full teaching comments
+source_code_learning.py
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
