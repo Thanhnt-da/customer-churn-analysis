@@ -1,7 +1,11 @@
 mini project 1 _ EDA.docx
 
-# personal study copy with the full teaching comments
+# project 2 course materials: brief, sample notebook, duplicate copy of the dataset
+miniproject2/
+
+# personal study copies with the full teaching comments
 source_code_learning.py
+mini_project_2_learning.py
 
 # Python / Jupyter clutter
 __pycache__/
